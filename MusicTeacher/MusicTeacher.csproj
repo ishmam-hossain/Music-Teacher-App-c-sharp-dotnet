@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0DEF248E-3AB6-4D2F-9720-03BA213DFD91}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MusicTeacher</RootNamespace>
+    <AssemblyName>MusicTeacher</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CircleProgressBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CircleProgressBar.Designer.cs">
+      <DependentUpon>CircleProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseManager.cs" />
+    <Compile Include="drm_2_beat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drm_2_beat.Designer.cs">
+      <DependentUpon>drm_2_beat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drm_4_beat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drm_4_beat.Designer.cs">
+      <DependentUpon>drm_4_beat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drm_bar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drm_bar.Designer.cs">
+      <DependentUpon>drm_bar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drm_basic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drm_basic.Designer.cs">
+      <DependentUpon>drm_basic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drm_know.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drm_know.Designer.cs">
+      <DependentUpon>drm_know.cs</DependentUpon>
+    </Compile>
+    <Compile Include="drums.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="drums.Designer.cs">
+      <DependentUpon>drums.cs</DependentUpon>
+    </Compile>
+    <Compile Include="exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exit.Designer.cs">
+      <DependentUpon>exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gtr_arpegio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gtr_arpegio.Designer.cs">
+      <DependentUpon>gtr_arpegio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gtr_barre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gtr_barre.Designer.cs">
+      <DependentUpon>gtr_barre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gtr_brief.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gtr_brief.Designer.cs">
+      <DependentUpon>gtr_brief.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gtr_major.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gtr_major.Designer.cs">
+      <DependentUpon>gtr_major.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gtr_minor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gtr_minor.Designer.cs">
+      <DependentUpon>gtr_minor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="guitar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="guitar.Designer.cs">
+      <DependentUpon>guitar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="instruments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="instruments.Designer.cs">
+      <DependentUpon>instruments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="keyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="keyboard.Designer.cs">
+      <DependentUpon>keyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="key_basics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_basics.Designer.cs">
+      <DependentUpon>key_basics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="key_notes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_notes.Designer.cs">
+      <DependentUpon>key_notes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="key_relative.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_relative.Designer.cs">
+      <DependentUpon>key_relative.cs</DependentUpon>
+    </Compile>
+    <Compile Include="practise.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="practise.Designer.cs">
+      <DependentUpon>practise.cs</DependentUpon>
+    </Compile>
+    <Compile Include="practise_2.cs" />
+    <Compile Include="quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quiz.Designer.cs">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuizDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuizDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="theory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="theory.Designer.cs">
+      <DependentUpon>theory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="key_Visual_Ex..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="key_Visual_Ex..Designer.cs">
+      <DependentUpon>key_Visual_Ex..cs</DependentUpon>
+    </Compile>
+    <Compile Include="try.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="try.Designer.cs">
+      <DependentUpon>try.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CircleProgressBar.resx">
+      <DependentUpon>CircleProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drm_2_beat.resx">
+      <DependentUpon>drm_2_beat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drm_4_beat.resx">
+      <DependentUpon>drm_4_beat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drm_bar.resx">
+      <DependentUpon>drm_bar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drm_basic.resx">
+      <DependentUpon>drm_basic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drm_know.resx">
+      <DependentUpon>drm_know.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="drums.resx">
+      <DependentUpon>drums.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exit.resx">
+      <DependentUpon>exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gtr_arpegio.resx">
+      <DependentUpon>gtr_arpegio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gtr_barre.resx">
+      <DependentUpon>gtr_barre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gtr_brief.resx">
+      <DependentUpon>gtr_brief.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gtr_major.resx">
+      <DependentUpon>gtr_major.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gtr_minor.resx">
+      <DependentUpon>gtr_minor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="guitar.resx">
+      <DependentUpon>guitar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="instruments.resx">
+      <DependentUpon>instruments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="keyboard.resx">
+      <DependentUpon>keyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_basics.resx">
+      <DependentUpon>key_basics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_notes.resx">
+      <DependentUpon>key_notes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_relative.resx">
+      <DependentUpon>key_relative.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="key_Visual_Ex..resx">
+      <DependentUpon>key_Visual_Ex..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="practise.resx">
+      <DependentUpon>practise.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quiz.resx">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="theory.resx">
+      <DependentUpon>theory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="try.resx">
+      <DependentUpon>try.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuizDBDataSet.xsc">
+      <DependentUpon>QuizDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuizDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuizDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuizDBDataSet.xss">
+      <DependentUpon>QuizDBDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QuizDB.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

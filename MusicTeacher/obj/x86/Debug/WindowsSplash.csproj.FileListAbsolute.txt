@@ -1,0 +1,74 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\bin\Debug\WindowsSplash.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\bin\Debug\WindowsSplash.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.Form1.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.Form2.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.Properties.Resources.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.csproj.GenerateResource.Cache
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WindowsSplash\obj\x86\Debug\WindowsSplash.pdb
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.exe
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.pdb
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\bin\Debug\WindowsSplash.exe
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\bin\Debug\WindowsSplash.pdb
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Properties.Resources.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.csproj.GenerateResource.Cache
+C:\Users\Ishmam Tonmoy\Documents\Visual Studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Form4.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.csprojResolveAssemblyReference.cache
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.splashForm.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.theory.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.home.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_intervals.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.guitar.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.instruments.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_scale.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_rhythm.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_brief.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_barre.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_arpegio.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_major.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_minor.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.keyboard.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_basics.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_notes.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_relative.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Visual_Ex.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_freq.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_bar.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_basic.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_know.resources
+C:\Users\Ishmam Tonmoy\documents\visual studio 2010\Projects\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drums.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.exe
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.pdb
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\bin\Debug\WindowsSplash.exe
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\bin\Debug\WindowsSplash.pdb
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.csprojResolveAssemblyReference.cache
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_bar.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_basic.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_know.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drums.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_arpegio.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_barre.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_brief.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_major.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.gtr_minor.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.guitar.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.home.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.instruments.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.keyboard.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_basics.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_notes.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.key_relative.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Visual_Ex.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.splashForm.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_intervals.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_freq.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Form4.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_scale.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.frm_rhythm.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.theory.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.Properties.Resources.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.csproj.GenerateResource.Cache
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.CircleProgressBar.resources
+C:\Users\Fahim\Desktop\New folder\WindowsSplash\WindowsSplash\obj\x86\Debug\WindowsSplash.drm_4_beat.resources
+F:\C_sharp\MusicTeacher\WindowsSplash\obj\x86\Debug\WindowsSplash.exe
+F:\C_sharp\MusicTeacher\WindowsSplash\obj\x86\Debug\WindowsSplash.pdb
